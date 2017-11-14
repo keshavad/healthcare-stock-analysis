@@ -6,4 +6,5 @@ The healthcare industry comprising of hospital services, medical equipment, phar
 
 Towards this, we examined certain characteristics of each stock taken either one-at-a-time or two-at-a-time. We calculated log-returns of the closing stock prices, and tested if the data was normally distributed. Next, we estimated the confidence intervals for the mean and variance of each stock, and performed a regression of the log-return on time. Lastly, we performed graphical analysis on the stocks to forecast their future values. Subsequently, using two-stocks, we tested the equality of the two population means, and performed a regression of one log-return on another. Consequently, we used this data to forecast the future stock prices.
 
-Project by - Keshava Dilwali, Akshan Mehta, Rohan Talati (Columbia University)
+<h2> Project Team </h2>
+Keshava Dilwali, Akshan Mehta, Rohan Talati (Columbia University)
