@@ -1,4 +1,4 @@
-# Healthcare Stockmarket Analysis
+# Healthcare Stock Market Analysis
 
 During every U.S. presidential election, the healthcare sector goes through many fluxes creating both opportunities and challenges for investors. It is a topic of great discord between the two major political parties, with each proposing a wide range of regulations on the industry which affect their functioning in the long run. In this project, we choose 10 healthcare related companies and perform statistical analysis on log-returns of their daily closing stock prices during the election period. We use this data to analyze the healthcare sector and forecast future stock behavior. This will provide an investor with insights that can assist in making an informed decision about which stocks to invest in, along with the general market trend.
 
